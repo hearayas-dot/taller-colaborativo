@@ -1,4 +1,6 @@
-num1 = int(input("numero 1: ")) 
+def suma_tres_valores(a, b, c):
+    return a + b + c
+    num1 = int(input("numero 1: ")) 
 num2 = int(input("numero 2: ")) 
 
 valor = 0
